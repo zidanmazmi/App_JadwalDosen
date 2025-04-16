@@ -1,6 +1,6 @@
 # App_JadwalDosen
 Aplikasi Sederhana menggunakan Boostrap5 dan PHP untuk menentukan Jadwal Dosen dengan CRUD  
- <hr>
+ <br>
  berikut adalah tampilan dari file tersebut : <hr>
 
 ![Screenshot 2025-04-16 213802](https://github.com/user-attachments/assets/c379164d-1c6c-407c-890d-6638e82ef994)
